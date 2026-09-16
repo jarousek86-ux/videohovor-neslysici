@@ -4,6 +4,10 @@ Prototyp webové aplikace pro videohovor dvou osob s textovým chatem. Cílem je
 
 **Stav: rozpracovaný prototyp.** Funkčnost hovoru na různých zařízeních a sítích je potřeba dále ověřit.
 
+**[Vyzkoušet online](https://jarousek86-ux.github.io/videohovor-neslysici/)**
+
+![Náhled aplikace Videohovor pro neslyšící](docs/nahled-pocitac.jpg)
+
 ## Co obsahuje současná implementace
 
 - Vytvoření místnosti a sdílení jejího kódu.
@@ -53,6 +57,10 @@ Pro nasazení mimo vlastní počítač použij HTTPS kvůli přístupu ke kameř
 - Zlepšit zpracování odmítnutých oprávnění a přerušení spojení.
 - Doplnit potvrzení příchozího hovoru a možnost komunikace bez mikrofonu.
 - Ověřit mobilní chat, přístupnost ovládání a úplné ukončení přenosu.
+
+## Licence
+
+Kód je dostupný pod licencí MIT. Podrobnosti jsou v souboru [LICENSE](LICENSE).
 
 ## Autor
 
